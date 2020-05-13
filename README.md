@@ -1,2 +1,30 @@
 # linkedin-connection-clicker
+
 This is a Python bot I made with no experience that gets me connections on LinkedIn. 
+In two weeks, it took me from 125 connections to over 500! I coded the bones of the bot on the first day, which I report
+[***in this video***](https://www.linkedin.com/posts/thomasshottsjr_100daysofcode-lambdaschool-activity-6662792704356872193-stzM) and it was functional, but slightly buggy, by the end of that day. 
+A few days later, I was ready to test the bot and it was a resounding success! 
+You can see that, [***here***](https://www.linkedin.com/posts/thomasshottsjr_100daysofcode-lambdaschool-activity-6662792704356872193-stzM).
+
+_This bot uses:_
+- [x] Python
+- [x] Selenium
+- [x] pynput
+- [x] selenium.common.exceptions
+
+## If you want to use this bot to boost your own connections (*and you are on Windows*), follow these easy steps!
+. Download and extract the zip of the repo into your ``Downloads`` folder.
+. Install Python [***with this installer***](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe) and open perform the following keyboard shortcuts/commands:
+- ``Windows Key + R`` and then type ``cmd`` and press ``Enter``
+- Type ``cd Downloads/linkedin-connection-clicker`` and press ``Enter``
+- Type ``pip install pynput selenium`` and press enter
+- close the ``cmd`` window
+. Install Firefox from [***here***](https://www.mozilla.org/en-US/firefox/new/) (***or*** skip to step 3, if you already have it)
+. Right-click ``run_connect-clicker.bat`` hover over ``Send To`` and click ``Desktop(create shortcut)``
+. Create a new blank text document called secrets.py in the ``linkedin-connection-clicker`` folder (*the extension **must be .py**)
+. Edit ``secrets.py`` with a text editor, such as ``Notepad`` and insert the following lines, including the single quotes, substituting your information:
+- ``email = 'your LinkedIn login email here'``
+- ``password = 'your LinkedIn password here'``
+(LinkedIn Connection Clicker **does not save your information**)
+. Save and close the text editor.
+. Launch ``run-connect-clicker.bat`` and watch the magic happen!
