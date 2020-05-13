@@ -27,4 +27,6 @@ _This bot uses:_
 - ``password = 'your LinkedIn password here'``
 (LinkedIn Connection Clicker **does not save your information**)
 7. Save and close the text editor.
-8. Launch ``run-connect-clicker.bat`` and watch the magic happen!
+8. Launch ``run-connect-clicker.bat`` directly or using the shortcut on your desktop
+9. When the ``Windows SmartScreen`` window pops up, click ``more info`` and then ``run anyway`` (This is just to protect you in the event that you download a malicious batch file and try to run it. If you don't feel safe, feel free to scan the files with your antivirus software before you override the smart screen warning) 
+10. Watch the magic happen!
