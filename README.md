@@ -13,18 +13,18 @@ _This bot uses:_
 - [x] selenium.common.exceptions
 
 ## If you want to use this bot to boost your own connections (*and you are on Windows*), follow these easy steps!
-. Download and extract the zip of the repo into your ``Downloads`` folder.
-. Install Python [***with this installer***](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe) and open perform the following keyboard shortcuts/commands:
+1. Download and extract the zip of the repo into your ``Downloads`` folder.
+2. Install Python [***with this installer***](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe) and open perform the following keyboard shortcuts/commands:
 - ``Windows Key + R`` and then type ``cmd`` and press ``Enter``
 - Type ``cd Downloads/linkedin-connection-clicker`` and press ``Enter``
 - Type ``pip install pynput selenium`` and press enter
 - close the ``cmd`` window
-. Install Firefox from [***here***](https://www.mozilla.org/en-US/firefox/new/) (***or*** skip to step 3, if you already have it)
-. Right-click ``run_connect-clicker.bat`` hover over ``Send To`` and click ``Desktop(create shortcut)``
-. Create a new blank text document called secrets.py in the ``linkedin-connection-clicker`` folder (*the extension **must be .py**)
-. Edit ``secrets.py`` with a text editor, such as ``Notepad`` and insert the following lines, including the single quotes, substituting your information:
+3. Install Firefox from [***here***](https://www.mozilla.org/en-US/firefox/new/) (***or*** skip to step 3, if you already have it)
+4. Right-click ``run_connect-clicker.bat`` hover over ``Send To`` and click ``Desktop(create shortcut)``
+5. Create a new blank text document called secrets.py in the ``linkedin-connection-clicker`` folder (*the extension **must be .py**)
+6. Edit ``secrets.py`` with a text editor, such as ``Notepad`` and insert the following lines, including the single quotes, substituting your information:
 - ``email = 'your LinkedIn login email here'``
 - ``password = 'your LinkedIn password here'``
 (LinkedIn Connection Clicker **does not save your information**)
-. Save and close the text editor.
-. Launch ``run-connect-clicker.bat`` and watch the magic happen!
+7. Save and close the text editor.
+8. Launch ``run-connect-clicker.bat`` and watch the magic happen!
