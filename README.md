@@ -16,7 +16,7 @@ _This bot uses:_
 1. Download and extract the zip of the repo into your ``Downloads`` folder.
 2. Install Python [***with this installer***](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe) and open perform the following keyboard shortcuts/commands:
 - ``Windows Key + R`` and then type ``cmd`` and press ``Enter``
-- Type ``cd Downloads/linkedin-connection-clicker`` and press ``Enter``
+- Type ``cd Downloads/linkedin-connection-clicker-master`` and press ``Enter``
 - Type ``pip install pynput selenium wheel`` and press enter
 - close the ``cmd`` window
 3. Install Firefox from [***here***](https://www.mozilla.org/en-US/firefox/new/) (***or*** skip to step 3, if you already have it)
