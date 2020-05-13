@@ -130,3 +130,9 @@ dmypy.json
 
 # secrets
 secrets.py
+
+#geckodriver logs
+geckodriver.log
+
+#debug log
+debug.log
