@@ -1,7 +1,7 @@
 # linkedin-connection-clicker
 
 This is a Python bot I made with no experience that gets me connections on LinkedIn. 
-In two weeks, it took me from 125 connections to over 500! I coded the bones of the bot on the first day, which I report
+In two weeks, it took me from 125 connections to over 500! (As of July 2020, my connections have climbed to over 1000.) I coded the bones of the bot on the first day, which I report
 [***in this video***](https://www.linkedin.com/posts/thomasshottsjr_100daysofcode-lambdaschool-activity-6662792704356872193-stzM) and it was functional, but slightly buggy, by the end of that day. 
 A few days later, I was ready to test the bot and it was a resounding success! 
 You can see that, [***here***](https://www.linkedin.com/posts/thomasshottsjr_100daysofcode-lambdaschool-activity-6662792704356872193-stzM).
